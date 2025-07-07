@@ -1,0 +1,28 @@
+# Node.js
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js build output
+.next
+out
+
+# VSCode settings
+.vscode
+
+# Logs
+logs
+*.log
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled source #
+dist
+
+# Mac
+.DS_Store
